@@ -1,0 +1,21 @@
+//npm - global command, comes with node
+// npm --version
+//npm --v
+
+//local dependency - use int only in this particular porject
+//npm i <packageName>
+
+// global dependency - use it in any project
+//npm install -g <packageName>
+//sudo npm instal -g <packageName> (mac)
+
+//package.json - manisfest file (stores important info about project/package)
+//manual approach (create package.json in the root, create properties ect)
+//npm init (step by step, press enter to skip)
+//npm init -y (everthing defalut)
+
+
+//Event loop é o que permite o node performar operações bloqueadas ou não bloquedas
+//https://nodejs.dev/learn/the-nodejs-event-loop
+//https://www.youtube.com/watch?v=8aGhZQkoFbQ
+//Java Script executa linha por linha
